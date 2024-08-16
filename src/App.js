@@ -1,5 +1,5 @@
 import "./App.css";
-import Menu from "./components/menu.js";
+import Menu from "./components/Menu.js";
 import Card from "./components/Card.js";
 
 function App() {
@@ -7,6 +7,7 @@ function App() {
     <>
       <Menu />
       <Card />
+
     </>
   );
 }

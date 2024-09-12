@@ -13,7 +13,9 @@ function Menu() {
           </button>
           <button className="display: flex place-items-center h-8">
             <IoDocumentTextSharp className="text-white "></IoDocumentTextSharp>
-            <p className=" text-white">CV</p>
+            <a href="../../public/CV.pdf" download className="text-white">
+              CV
+            </a>
           </button>
         </div>
       </div>
